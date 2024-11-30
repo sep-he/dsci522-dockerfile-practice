@@ -22,8 +22,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-For the portions of the project that are derived from dsci522-dockerfile-practice (https://github.com/ttimbers/dsci522-dockerfile-practice):
+---
 
+For the portions of the project - docker-publish.yml file, environment.yml file - that are derived from dsci522-dockerfile-practice (https://github.com/ttimbers/dsci522-dockerfile-practice):
 
 
 Except where otherwise noted, the example programs and other software
